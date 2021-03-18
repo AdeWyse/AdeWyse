@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdeWyse
-- I'm a Software Engeninring student at UTFPR-(Universidade Tecnológica do Paraná).
+- I'm a Software Engineering student at UTFPR-(Universidade Tecnológica do Paraná).
 - My interests are in the 3d Development area in general and Gamedev.
 - I'm currently learning Unity 3d, C#, C and Ruby.
 
