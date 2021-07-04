@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Adeline Wyse (@AdeWyse)
 - I'm a Software Engineering student at UTFPR-(Universidade Tecnológica do Paraná).
-- My interests are in the 3d Development area in general and Gamedev.
-- I'm currently learning Unity 3d, C# and C.
+- I'm currently learning Unity 3d, C#,C and Python.
 ## Skills:
 - (Unity Junior Programmer Pathway)
 - Simple code editing and comprehension
