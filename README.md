@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Awygui (@AAwygui)
+- 👋 Hi, I’m Awygui (@Awygui)
 - I'm a Software Engineering student at UTFPR-(Universidade Tecnológica do Paraná) and web dev inter at UTFPR.
 - I'm currently interested Unity 3d, C#,C Html, CSS, Javascript and PHP.
 
