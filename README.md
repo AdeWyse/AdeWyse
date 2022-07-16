@@ -21,9 +21,3 @@ Hello, I’m AdeWyse (@AdeWyse), a Software Engineering student at UTFPR-(Univer
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo#00599C=cplusplus&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-C_Sharp-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117&textColor=0D1117)&nbsp;
   
-</div>
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AdeWyse}/count.svg" /></p> 
-<br></div>
-  
