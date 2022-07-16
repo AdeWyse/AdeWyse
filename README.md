@@ -18,6 +18,6 @@ Hello, I’m AdeWyse (@AdeWyse), a Software Engineering student at UTFPR-(Univer
 ### Studying in this moment:
 ![Unity 3D](https://img.shields.io/badge/-Unity3d-0D1117?style=for-the-badge&logo=unity&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Unreal Engine 5](https://img.shields.io/badge/-Unreal_Engine_5-0D1117?style=for-the-badge&logo=unrealengine&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo#00599C=cplusplus&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-C_Sharp-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117&textColor=0D1117)&nbsp;
   
