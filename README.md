@@ -1,4 +1,4 @@
-Hello, I’m AdeWyse (@AdeWyse), a Software Engineering student at UTFPR-(Universidade Tecnológica do Paraná) and development intern at UTFPR. 
+Hello, I’m AdeWyse (@AdeWyse), a Software Engineering student at UTFPR-(Universidade Tecnológica do Paraná). 
 Want to see my best work? 
 Check it out here: https://adewyse.github.io/AdelineWyse/
 
